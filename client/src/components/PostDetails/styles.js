@@ -25,7 +25,7 @@ export default makeStyles((theme) => ({
     [theme.breakpoints.down('sm')]: {
       marginLeft: 0,
     },
-    maxWidth: '1000px',
+    maxWidth: '800px',
   },
   recommendedPosts: {
     display: 'flex',
